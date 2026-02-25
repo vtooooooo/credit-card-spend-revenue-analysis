@@ -5,6 +5,13 @@
 ![Excel](https://img.shields.io/badge/Excel-Professional-green)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 
+---
+
+- Dataset Link: https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset
+- PowerBI Link: https://drive.google.com/file/d/1aRE6BJl1eZ8YP0fmlybLDy9qj7_WP4kV/view?usp=drive_link
+
+---
+
 ## Project Overview
 This project simulates the work done by data analysts at major financial 
 institutions like JPMorgan Chase and Bank of America. The objective was to 
@@ -50,7 +57,6 @@ raw transaction data all the way to an executive-ready Power BI dashboard.
 
 ## Dataset
 - **Source:** Kaggle — Credit Card Transactions Dataset
-- **Link:** https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset
 - **Size:** 1,296,675 transactions | 983 customers | 14 spending categories | 51 states
 - **Period:** January 2019 – June 2020
 - **Note:** Raw dataset not included due to file size. Download from the Kaggle 
@@ -123,5 +129,3 @@ Built a 3-page interactive dashboard:
   category vs gender stacked bar, avg transaction by age group
 
 ---
-
-## Repository Structure
