@@ -5,6 +5,8 @@
 ![Excel](https://img.shields.io/badge/Excel-Professional-green)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 
+![Pproject Banner](banner.png)
+
 ---
 
 - Dataset Link: https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset
