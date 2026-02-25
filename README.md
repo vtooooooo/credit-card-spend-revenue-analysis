@@ -5,7 +5,7 @@
 ![Excel](https://img.shields.io/badge/Excel-Professional-green)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 
-![Pproject Banner](banner.png)
+![Pproject Banner](Visualizations/banner.png)
 
 ---
 
