@@ -1,0 +1,4 @@
+spend_tier,customers,transactions,total_spend,total_revenue,revenue_pct
+High Spender,303,682275,48521964.3,873395.36,55.62
+Mid Spender,302,411247,26311245.83,473602.42,30.16
+Low Spender,303,195647,12401130.16,223220.34,14.22
